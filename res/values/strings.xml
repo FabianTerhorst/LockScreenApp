@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">LockScreenAppActivity!</string>
+    <string name="app_name">LockScreen</string>
+    <string name="unloack">Unlock</string>
+    <color name="mycolor1">#F5DC49</color>
+    <color name="mycolor2">#FFFFFF</color>
+
+
+</resources>
